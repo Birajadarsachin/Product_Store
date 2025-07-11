@@ -24,7 +24,7 @@ A simple full-stack product management application built with:
 |------------|---------------------|
 | Frontend   | React, Vite, Chakra UI |
 | Backend    | Node.js, Express    |
-| Styling    | Chakra UI, Tailwind (optional) |
+| Styling    | Chakra UI |
 | Package Manager | npm             |
 
 ---
