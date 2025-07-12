@@ -30,13 +30,13 @@ A simple full-stack product management application built with:
 ---
 ## 📸 Screenshots
 
-<img src="./screenshots/screenshot1.png" width="700"/>
+<img src="./Screenshots/Screenshot1.png" width="700"/>
 
 
-<img src="./screenshots/screenshot2.png" width="700"/>
+<img src="./Screenshots/Screenshot2.png" width="700"/>
 
 
-<img src="./screenshots/screenshot3.png" width="700"/>
+<img src="./Screenshots/Screenshot3.png" width="700"/>
 
-<img src="./screenshots/screenshot4.png" width="700"/>
+<img src="./Screenshots/Screenshot4.png" width="700"/>
 
