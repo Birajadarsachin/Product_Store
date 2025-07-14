@@ -39,13 +39,13 @@ A full-stack product management web application built with modern tools and clea
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./Screenshots/Screenshot1.png" width="700"/>
+  <img src="./Screenshots/Screenshot11.png" width="700"/>
   <br/><br/>
-  <img src="./Screenshots/Screenshot2.png" width="700"/>
+  <img src="./Screenshots/Screenshot12.png" width="700"/>
   <br/><br/>
-  <img src="./Screenshots/Screenshot3.png" width="700"/>
+  <img src="./Screenshots/Screenshot13.png" width="700"/>
   <br/><br/>
-  <img src="./Screenshots/Screenshot4.png" width="700"/>
+  <img src="./Screenshots/Screenshot14.png" width="700"/>
 </p>
 
 -
