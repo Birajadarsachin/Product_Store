@@ -1,42 +1,51 @@
 # 🛍️ Product Store App
 
-A simple full-stack product management application built with:
+A full-stack product management web application built with modern tools and clean UI.
 
-- **Frontend**: React + Vite + Chakra UI
-- **Backend**: Node.js + Express
-- **API Proxy**: Vite server proxy for smooth frontend-backend connection
+## 🧩 Tech Stack
+
+| Layer      | Tech                            |
+|------------|---------------------------------|
+| Frontend   | React, Vite, Chakra UI          |
+| Backend    | Node.js, Express                |
+| Auth       | JWT-based authentication        |
+| Styling    | Chakra UI                       |
+| State Mgmt | Zustand                         |
+| DB         | MongoDB (via Mongoose)          |
+| Package Manager | npm                        |
 
 ---
 
 ## 🚀 Features
 
-- Add new products
-- View all products
-- Update or delete products
-- Full JSON API backend
-- Frontend & backend connected using Vite proxy
+- 🔐 **User Authentication** (Signup & Login using JWT)
+- ➕ Create, view, update, and delete products
+- 🧠 Zustand for state management
+- 🎨 Responsive and theme-aware UI with Chakra UI
+- 🔁 Proxy connection between frontend & backend via Vite
+- ⚙️ MongoDB backend with API routing via Express
 
 ---
 
-## 📦 Tech Stack
+## 🔐 Auth Flow
 
-| Layer      | Tech                |
-|------------|---------------------|
-| Frontend   | React, Vite, Chakra UI |
-| Backend    | Node.js, Express    |
-| Styling    | Chakra UI |
-| Package Manager | npm             |
+- JWT token saved in `localStorage` after login/signup
+- Protected routes using `ProtectedRoute` wrapper
+- Navbar dynamically updates to show **Login / Signup** or **Logout**
+- Product pages only accessible when logged in
 
 ---
+
 ## 📸 Screenshots
 
-<img src="./Screenshots/Screenshot1.png" width="700"/>
+<p align="center">
+  <img src="./Screenshots/Screenshot1.png" width="700"/>
+  <br/><br/>
+  <img src="./Screenshots/Screenshot2.png" width="700"/>
+  <br/><br/>
+  <img src="./Screenshots/Screenshot3.png" width="700"/>
+  <br/><br/>
+  <img src="./Screenshots/Screenshot4.png" width="700"/>
+</p>
 
-
-<img src="./Screenshots/Screenshot2.png" width="700"/>
-
-
-<img src="./Screenshots/Screenshot3.png" width="700"/>
-
-<img src="./Screenshots/Screenshot4.png" width="700"/>
-
+-
